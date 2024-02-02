@@ -20,8 +20,8 @@ D1A9FxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxNJ3IK
 
 Usage:
 ```
-python utils-api-cloudflare.py -k cfapikey.cfg
-python utils-api-cloudflare.py -k /home/jdjalm/cfapikey.cfg -s /var/backups/cloudflare/
+python utils-api-cloudflare_v0.1.py -k cfapikey.cfg
+python utils-api-cloudflare_v0.1.py -k /home/jdjalm/cfapikey.cfg -s /var/backups/cloudflare/
 ```
 
 Possible future features:
